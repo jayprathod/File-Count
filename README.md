@@ -30,14 +30,22 @@ a-sr-500-bg.txt
 
 How software input field fillup?
 
-Number 1 : 1		 
+Number 1 : 1	
+
 Number 2 : 500
+
 Common Name :a-sr-
+
 Common Last Name: -bg.txt
 
 
+
 What software given O/P on screen?
+
 	-some file missed, 
+ 
 	-extra files,
+ 
 	-Our main folder in other Folders:  
+ 
 that all listout as in scrollbar.
