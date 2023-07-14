@@ -11,6 +11,7 @@ other works. That problem solve my software.
 
 
 Which fromat in File?
+
 Each worker have separate folder. Each folder in 500+ file as follows format:
 
 a-sr-1-bg.txt
