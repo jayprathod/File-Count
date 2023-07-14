@@ -14,11 +14,17 @@ Which fromat in File?
 Each worker have separate folder. Each folder in 500+ file as follows format:
 
 a-sr-1-bg.txt
+
 a-sr-2-bg.txt
+
 a-sr-3-bg.txt
+
 	.
+ 
 	.
+ 
 	.
+ 
 a-sr-500-bg.txt
 
 
